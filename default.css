@@ -1,0 +1,17 @@
+/* defalut setting */
+body {
+  margin: 0;
+  font-family: 'Noto Sans KR', sans-serif;
+}
+
+ul {
+  margin: 0;
+  padding-left: 0;
+}
+button {
+  cursor: pointer;
+}
+
+li{
+  list-style: none;
+}

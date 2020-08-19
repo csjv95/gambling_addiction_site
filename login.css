@@ -1,0 +1,66 @@
+/* header */
+.nav{
+  padding: 12px;
+  display: flex;
+  justify-content: space-around;
+  
+}
+
+/* main */
+.login__title{
+  text-align: center;
+}
+
+.form__login{
+  width: 650px;
+  margin: 2% auto;
+}
+
+.fieldset__login {
+  display: flex;
+  
+}
+
+.login__id,
+.login__pw {
+  margin: 5px 0px;
+}
+
+#id,
+#pw {
+  margin: 5px 0px;
+  border: 1px solid  rgba(80, 93, 105, 0.1);
+  border-radius: 6px;
+  padding: 0px;
+  width: 100%;
+  background-color: #dcddff
+}
+
+.login__btn{
+  margin: 5% auto;
+  padding: 1%;
+  width: 100%;
+  color: rgb(252, 252, 252);
+  background-color: #2daf52;
+  border-color: rgba(27,31,35,.15);
+  border: 1px solid;
+  border-radius: 6px;
+  box-shadow: 0 1px 0 rgba(30, 33, 36, 0.1), inset 0 1px 0 rgba(247, 243, 243, 0.03);
+}
+
+.check__box {
+  display: flex;
+  justify-content: space-between;
+  cursor: pointer;
+}
+
+.login__status {
+  cursor: pointer;
+}
+
+.check__btn {
+  margin: 0;
+  background-color: transparent;
+  outline: none;
+  border: none;
+}

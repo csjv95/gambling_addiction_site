@@ -6,6 +6,12 @@
 }
 
 /* main */
+.logo{
+  width: 70px;
+  display: block;
+  margin: auto;
+}
+
 .login__title{
   text-align: center;
 }

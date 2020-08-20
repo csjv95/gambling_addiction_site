@@ -52,7 +52,6 @@
 .check__box {
   display: flex;
   justify-content: space-between;
-  cursor: pointer;
 }
 
 .login__status {

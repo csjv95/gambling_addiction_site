@@ -8,11 +8,21 @@ ul {
   margin: 0;
   padding-left: 0;
 }
+
 button {
   cursor: pointer;
-  font-family: 'Noto Sans KR', sans-serif;
+  border: none;
+  margin: 0;
+  padding: 0;
+  width: auto;
+  overflow: visible;
+  background: transparent;
 }
 
 li{
   list-style: none;
 }
+
+
+
+
